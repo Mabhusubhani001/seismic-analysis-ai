@@ -173,6 +173,7 @@ def render():
             - The model uses a combination of numerical and categorical data to make these predictions.
 
             - Click the "Show Results" button to load the dataset, train the model, and view the evaluation results, including confusion matrices, classification reports, and training history. 
+            (Wait until you see "Model Successfully Trained!" text)
             - This will help you understand how well the model performs in predicting earthquake intensity.
             """)
 
