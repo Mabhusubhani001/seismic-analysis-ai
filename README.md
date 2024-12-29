@@ -7,7 +7,7 @@ This project was developed for **Impact-Metrics**, a premier Data Analytics comp
 
 ### 👥 Team Members
 - [Mabhu Subhani](https://github.com/mabhusubhani001)
-- [Vinay](https://github.com/vinay1011)
+- [Vinay](https://github.com/vinay10110)
 
 ## 🎯 Project Overview
 A comprehensive machine learning system for processing seismic data and predicting Community Decimal Intensity (CDI) and Modified Mercalli Intensity (MMI). The system combines advanced data processing with a dual-branch neural network architecture to provide accurate seismic predictions and real-time visualizations.
@@ -380,7 +380,7 @@ We welcome contributions to improve the project! Please follow these steps:
 
 For any queries regarding the project, please reach out to:
 - [Mabhu Subhani](https://github.com/mabhusubhani001)
-- [Vinay](https://github.com/vinay1011)
+- [Vinay](https://github.com/vinay10110)
 
 ## 📚 Citation
 If you use this project in your research or work, please cite:
