@@ -20,9 +20,6 @@ A comprehensive machine learning system for processing seismic data and predicti
 - Real-time statistics and analytics dashboard
 - User-friendly Streamlit interface
 
-## 🛠️ Technical Architecture
-
-[Previous content remains the same until Technical Architecture section]
 
 ## 🛠️ Technical Architecture
 
