@@ -165,7 +165,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-[Previous content remains the same until Data Sources and Processing section]
 
 ## 📊 Data Sources and Processing
 
@@ -213,7 +212,7 @@ We performed comprehensive data cleaning and merging operations to create our fi
    - Range checks for numerical values
    - Consistency verification
 
-[Previous content remains the same until Dataset Structure section]
+
 
 ### Final Dataset Structure (`preprocessed_earthquake.csv`)
 
